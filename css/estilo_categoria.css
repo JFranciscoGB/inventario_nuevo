@@ -1,0 +1,50 @@
+#altura_blanco{ 
+height:40px;
+ }
+
+#response ul{   
+     list-style:none;
+     color:black;
+     padding:10px;
+     margin-top:-20px;
+     position: absolute;
+     width: 340px;
+     z-index: 1; 
+ }
+ #response li{
+   width: 330px;
+background:  #d0d3d4 ;
+padding-right: 5px;
+position: relative;
+left:40px;
+ }
+ #response li:hover{  
+    background:cornflowerblue;
+}
+#usuario h5{
+position: relative;
+margin-top:0px;
+}
+ 
+
+
+#response_cate ul{   
+    list-style:none;
+    color:black;
+    padding:10px;
+    margin-top:-20px;
+    position: absolute;
+    width: 340px;
+    z-index: 1; 
+}
+#response_cate li{
+  width: 330px;
+background:  #d0d3d4 ;
+padding-right: 5px;
+position: relative;
+left:40px;
+}
+#response_cate li:hover{  
+   background:cornflowerblue;
+}
+
